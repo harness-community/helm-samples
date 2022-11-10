@@ -3,7 +3,7 @@ name: harness-helm
 description: A Helm chart for Kubernetes
 maintainers:
   - name: Hrittik Roy
-    email: hrittik.roy@harness.io
+    email: community-engineering@harness.io
     url: github.com/hrittikhere
 
 # A chart can be either an 'application' or a 'library' chart.
